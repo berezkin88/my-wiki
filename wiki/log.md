@@ -28,3 +28,14 @@ Created entity pages:
 - `wiki/entities/openspec.md`
 
 Updated `wiki/index.md` with all entries.
+
+## [2026-08-02] Ingest — AWS health checks whitepaper
+
+Ingested 1 source document:
+
+- `raw/papers/Implementing health checks.md` → `wiki/sources/implementing-health-checks.md`
+
+Created concept pages:
+- `wiki/concepts/health-checks.md`
+
+Updated `wiki/index.md` with all entries.
